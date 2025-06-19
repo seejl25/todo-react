@@ -37,8 +37,15 @@ npm start
 
 Then visit http://localhost:3000 in your browser.
 
-<pre> ## 📁 Project Structure ``` src/ ├── App.js # Main application component ├── Header.js # Reusable header component ├── App.css # Styling └── ... ``` </pre>
+## 📁 Project Structure
 
+```
+src/
+├── App.js # Main application component
+├── Header.js # Reusable header component
+├── App.css # Styling
+└── ...
+```
 
 ## 🛠 Built With
 - ReactJS, Javascript, CSS, HTML
